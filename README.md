@@ -11,6 +11,8 @@ starting this git, so that others can contribute the work as well.
 
 ## Web Enabled Sprinkler Controllers
 
+[OpenSprinkler Pi](http://rayshobby.net/?page_id=5816)  A utility shield for a Raspberry Pi, initially supporting 8 zones but via [an expansion board](http://rayshobby.net/cart/opensprinkler/osexp-11), additional 8 zones cost just $40 each.  Currently a couple different pieces of software have been written for it, but the most competitive web interface looks to be [Sprinklers Pi by rszimm](https://github.com/rszimm/sprinklers_pi/wiki) (free, open source).
+
 [bluespray](http://www.bluespray.net/): *ON BACK ORDER* One of the earliest to have a
 nice mobile experience as well as weather lookups online.  Not the
 prettiest, but mostly marketed to landscapers.  $229 (8 zones)/ $279 (16
