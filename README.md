@@ -37,3 +37,5 @@ Uses sensors for light, humidity, temperature, soil moisture, and
 electroconductivity to measure fertilizer.  Requires fliwer hub to
 connect to internet, each fliwer is a sensor and single zone controller.
 Final price unclear.
+
+Worth noting that OpenSprinkler Pi could be upgraded to support sensors, but I haven't seen many out-of-the-box solutions for this yet.
